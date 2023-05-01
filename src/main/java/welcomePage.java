@@ -5,7 +5,7 @@
 
 /**
  *
- * @author PC
+ * @author Suhaila 
  */
 public class welcomePage extends javax.swing.JFrame {
 
@@ -14,6 +14,7 @@ public class welcomePage extends javax.swing.JFrame {
      */
     public welcomePage() {
         initComponents();
+        System.out.println("fjdhfjdhf");
     }
 
     /**
