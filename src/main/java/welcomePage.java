@@ -14,7 +14,7 @@ public class welcomePage extends javax.swing.JFrame {
      */
     public welcomePage() {
         initComponents();
-        System.out.println("fjdhfبلبلبلبلبjdhf");
+        System.out.println("fjdhfبلبلب vb لبلبjdhf");
     }
 
     /**
